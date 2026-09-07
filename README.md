@@ -1,108 +1,73 @@
-# Juan Carlos Hernandez, Backend Developer and Data Scientist 💻
+# Juan Hernandez
 
-**Based in Bogotá, Colombia 🇨🇴**
+Backend and Machine Learning Engineer based in Bogotá, Colombia. I design and operate high-volume systems, data products, and AI-assisted workflows from architecture through measurable business impact.
 
-I'm a passionate developer with a knack for backend systems, databases, and data science. While I might be surprisingly good for my age, my drive to push limits and deliver scalable, creative solutions is what truly sets me apart.
+## Personal hub
 
-> Any fool can know. The point is to understand. - Albert Einstein
+[nufi.com.co](https://nufi.com.co) is the central place for my work: projects, technical assessments, and concise write-ups.
 
-I bring a blend of speed and precision to my work. I'm a strong advocate for creative problem-solving and thrive in dynamic environments. 
+## Focus
 
-## Core Skills 💡
-  
-### Backend
-* **Languages:**
-    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Backend systems, microservices, REST APIs, and distributed workloads.
+- Data engineering, ETL pipelines, data quality, and analytics infrastructure.
+- Machine learning, LLM orchestration, RAG, and applied automation.
+- Cloud infrastructure, containers, CI/CD, reliability, and cost optimization.
 
-* **Frameworks:**
-    * ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## Experience
 
-* **Queues:**
-    * ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### Semi Senior Data Engineer, Mercado Libre
 
-* **Cloud:**
-    * ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+Bogotá, Colombia · Sep 2025 – Present
 
-### Databases
-* **SQL:**
-    * ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- Designed a hybrid orchestrator that combines deterministic code with LLM steps, reducing process time from 710 seconds to 67 seconds and operating cost to 11% of the original proof of concept.
+- Orchestrates the notification ecosystem across LATAM, processing more than 35 million push notifications and 5 million emails each day.
 
-* **NoSQL:**
-    * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+### Data Science Intern, Scotiabank Colpatria
 
-* **Big Data:**
-    * ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+Bogotá, Colombia · Feb 2025 – Aug 2025
 
-### Data Science
+- Automated UIAF report uploads with Python, eliminating weekly manual work for 33 analysts and saving roughly 11,000 hours annually.
+- Modeled a transactional network of more than 400 million records for AML/CFT detection, with a one-hour processing time.
 
-* **Basic:**
-    * ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  
-* **Deep Learning:**
-    * ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+### Backend Engineer, Coordinadora Mercantil
 
-* **Visualization:**
-    * ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+Remote · Mar 2023 – Dec 2023
 
-### DevOps
+- Reduced cloud costs by 89% through infrastructure rightsizing, I/O optimization, caching, batching, and load balancing.
+- Maintained backend infrastructure handling more than 10 million daily requests with 99.99% uptime.
+- Managed 37 production microservices and reduced memory use by 22%.
 
-  * ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### Backend and ML Engineer, Freelance
 
-### Essentials
+Remote · Feb 2022 – Feb 2025
 
-  * **Version:**
-    * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+- Increased productive capacity by 34% for a footwear factory through production-queue automation.
+- Improved CTR by 28% and BTR by 21% for an online fashion store with a product-recommendation algorithm.
+- Reduced administrative workload by 70% for a Bogotá dental clinic and cut reporting time from three days to two hours for a regional supermarket chain.
 
-  * **Development:**
-    * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Education
 
-## Interests 🎸
+- Computer Engineering, Universidad de La Sabana, 2025.
+- MicroMasters in Data Science, University of California, San Diego, 2025.
+- MicroMasters in Software Development, University of British Columbia, 2024.
+- MicroMasters in Project Management, Rochester Institute of Technology, 2026.
+- MicroMasters in Database Management Systems, University of Maryland Baltimore County, 2026.
 
-* **Musician:** Guitarist, bassist, pianist, and drummer with a love for covers.
-* **Curious Mind:** I like reading about politics, economics, philosophy, and psychology.
+## Technical stack
 
-## Projects ✨
+| Area | Technologies |
+| --- | --- |
+| Backend | Python, FastAPI, Go, Gin, microservices, REST APIs |
+| Data | PostgreSQL, MongoDB, Cassandra, Redis, BigQuery, Redshift, S3, MinIO |
+| Data and ML | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Spark, Airflow, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, RAG, LLMs |
+| Cloud and platform | AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD, Kafka, RabbitMQ |
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-icons-png.flaticon.com/512/5432/5432506.png"/>](https://github.com/juanhdzma/BancoAPI)
+## Credentials
 
-**Bank API** \
-[**Visit Repository**](https://github.com/juanhdzma/BancoAPI) • Backend \
-Description: `Python`, `FastAPI`, `CI (Build, unit testing, integration testing, lint, docker build, docker push)`, `CD (docker pull, docker run)`, `AWS EC2`, `AWS RDS`, `PostgreSQL`\
-<br/>
+40+ certifications across software, data, machine learning, and AI from organizations including Google, Harvard, UC San Diego, and IBM. Professional English: IELTS 7.5 (C1), 2025.
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://cdn-icons-png.flaticon.com/512/5408/5408783.png"/>](https://www.kaggle.com/code/juanhdzma/survivability-predictor-ann-lr-svm-0-772)
+## Contact
 
-**Titanic Prediction** \
-[**Visit Notebook**](https://www.kaggle.com/code/juanhdzma/survivability-predictor-ann-lr-svm-0-772) • Data Science, Machine Learning and Deep Learning \
-Description: `Python`, `SK-Learn`, `Keras`, `EDA`, `Data Analysis`\
-<br/>
-
-## Connect with Me! 🌐
-
-Open to new opportunities, collaborations, and projects!
-
-[![Linkedin](https://img.shields.io/badge/-juanhdzma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/juanhdzma/)
-[![Mail Badge](https://img.shields.io/badge/-juanhdzma@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:juanhdzma@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/juanhdzma?label=juanhdzma&style=social)](https://github.com/juanhdzma)
+- [LinkedIn](https://www.linkedin.com/in/juanhdzma/)
+- [GitHub](https://github.com/juanhdzma)
+- [juan.hernandez@nufi.com.co](mailto:juan.hernandez@nufi.com.co)
