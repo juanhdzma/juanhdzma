@@ -1,73 +1,76 @@
-# Juan Hernandez
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Juan Hernandez — Backend, Data, and Machine Learning Engineer" width="100%">
+</p>
 
-Backend and Machine Learning Engineer based in Bogotá, Colombia. I design and operate high-volume systems, data products, and AI-assisted workflows from architecture through measurable business impact.
+<p align="center">
+  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/personal_hub-nufi.com.co-0f766e?style=flat-square" alt="nufi.com.co"></a>
+  <img src="https://img.shields.io/badge/based_in-Bogotá%2C%20Colombia-1f6feb?style=flat-square" alt="Based in Bogotá, Colombia">
+  <img src="https://img.shields.io/badge/English-C1%20%7C%20IELTS%207.5-7c3aed?style=flat-square" alt="English C1, IELTS 7.5">
+</p>
 
-## Personal hub
+> I build reliable backend systems, data products, and AI-assisted workflows from architecture through measurable business impact.
 
-[nufi.com.co](https://nufi.com.co) is the central place for my work: projects, technical assessments, and concise write-ups.
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>80M+</strong><br><sub>requests handled daily</sub></td>
+    <td width="33%" align="center"><strong>89%</strong><br><sub>cloud-cost reduction</sub></td>
+    <td width="33%" align="center"><strong>40+</strong><br><sub>professional certifications</sub></td>
+  </tr>
+</table>
 
-## Focus
+## Currently
 
-- Backend systems, microservices, REST APIs, and distributed workloads.
-- Data engineering, ETL pipelines, data quality, and analytics infrastructure.
-- Machine learning, LLM orchestration, RAG, and applied automation.
-- Cloud infrastructure, containers, CI/CD, reliability, and cost optimization.
+Semi Senior Data Engineer at Mercado Libre, where I design systems that combine deterministic code and LLM steps, and help run the notification ecosystem across LATAM: more than 35 million push notifications and 5 million emails every day.
+
+<p align="center">
+  <a href="https://nufi.com.co"><strong>Explore my work at nufi.com.co</strong></a><br>
+  <sub>Projects, technical assessments, and concise write-ups live there.</sub>
+</p>
 
 ## Experience
 
-### Semi Senior Data Engineer, Mercado Libre
+| Period | Role | What I delivered |
+| --- | --- | --- |
+| 2025 — now | **Semi Senior Data Engineer**<br>Mercado Libre | Built a hybrid code and LLM orchestrator that reduced processing time from 710s to 67s and operational cost to 11% of the original proof of concept. |
+| 2025 | **Data Science Intern**<br>Scotiabank Colpatria | Automated UIAF report uploads for 33 analysts, saving roughly 11,000 hours a year; modeled a 400M+ record transactional network for AML/CFT detection in one hour. |
+| 2023 | **Backend Engineer**<br>Coordinadora Mercantil | Supported 10M+ daily requests at 99.99% uptime, managed 37 production microservices, and reduced memory use by 22%. |
+| 2022 — 2025 | **Backend and ML Engineer**<br>Freelance | Delivered automation, recommendation, management, and reporting systems that improved capacity, conversion, and operational speed for small businesses. |
 
-Bogotá, Colombia · Sep 2025 – Present
+## Working with
 
-- Designed a hybrid orchestrator that combines deterministic code with LLM steps, reducing process time from 710 seconds to 67 seconds and operating cost to 11% of the original proof of concept.
-- Orchestrates the notification ecosystem across LATAM, processing more than 35 million push notifications and 5 million emails each day.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/MLOps-7C3AED?style=for-the-badge" alt="MLOps">
+</p>
 
-### Data Science Intern, Scotiabank Colpatria
+**Data and ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, and RAG.
 
-Bogotá, Colombia · Feb 2025 – Aug 2025
-
-- Automated UIAF report uploads with Python, eliminating weekly manual work for 33 analysts and saving roughly 11,000 hours annually.
-- Modeled a transactional network of more than 400 million records for AML/CFT detection, with a one-hour processing time.
-
-### Backend Engineer, Coordinadora Mercantil
-
-Remote · Mar 2023 – Dec 2023
-
-- Reduced cloud costs by 89% through infrastructure rightsizing, I/O optimization, caching, batching, and load balancing.
-- Maintained backend infrastructure handling more than 10 million daily requests with 99.99% uptime.
-- Managed 37 production microservices and reduced memory use by 22%.
-
-### Backend and ML Engineer, Freelance
-
-Remote · Feb 2022 – Feb 2025
-
-- Increased productive capacity by 34% for a footwear factory through production-queue automation.
-- Improved CTR by 28% and BTR by 21% for an online fashion store with a product-recommendation algorithm.
-- Reduced administrative workload by 70% for a Bogotá dental clinic and cut reporting time from three days to two hours for a regional supermarket chain.
+**Platform:** microservices, REST APIs, BigQuery, Redshift, MongoDB, Cassandra, Redis, S3, MinIO, GitHub Actions, Jenkins, Kafka, RabbitMQ, and CI/CD.
 
 ## Education
 
-- Computer Engineering, Universidad de La Sabana, 2025.
-- MicroMasters in Data Science, University of California, San Diego, 2025.
-- MicroMasters in Software Development, University of British Columbia, 2024.
-- MicroMasters in Project Management, Rochester Institute of Technology, 2026.
-- MicroMasters in Database Management Systems, University of Maryland Baltimore County, 2026.
+| Program | Institution | Year |
+| --- | --- | ---: |
+| Computer Engineering | Universidad de La Sabana | 2025 |
+| MicroMasters in Data Science | University of California, San Diego | 2025 |
+| MicroMasters in Software Development | University of British Columbia | 2024 |
+| MicroMasters in Project Management | Rochester Institute of Technology | 2026 |
+| MicroMasters in Database Management Systems | University of Maryland Baltimore County | 2026 |
 
-## Technical stack
+## Connect
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Python, FastAPI, Go, Gin, microservices, REST APIs |
-| Data | PostgreSQL, MongoDB, Cassandra, Redis, BigQuery, Redshift, S3, MinIO |
-| Data and ML | Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Spark, Airflow, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, RAG, LLMs |
-| Cloud and platform | AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD, Kafka, RabbitMQ |
-
-## Credentials
-
-40+ certifications across software, data, machine learning, and AI from organizations including Google, Harvard, UC San Diego, and IBM. Professional English: IELTS 7.5 (C1), 2025.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/juanhdzma/)
-- [GitHub](https://github.com/juanhdzma)
-- [juan.hernandez@nufi.com.co](mailto:juan.hernandez@nufi.com.co)
+<p>
+  <a href="https://www.linkedin.com/in/juanhdzma/"><img src="https://img.shields.io/badge/LinkedIn-juanhdzma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:juan.hernandez@nufi.com.co"><img src="https://img.shields.io/badge/Email-juan.hernandez%40nufi.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Website-nufi.com.co-0f766e?style=for-the-badge" alt="Website"></a>
+</p>
