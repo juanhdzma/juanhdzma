@@ -10,7 +10,14 @@
 
 ## The Nufi Suite
 
-Nufi is a family of personal tools I build, self-host, and use. Every name ends in `i` by design: one coherent suite for different parts of daily life. The full experience lives at [nufi.com.co](https://nufi.com.co).
+<table>
+  <tr>
+    <td width="76" align="center" valign="middle"><a href="https://nufi.com.co"><img src="./assets/nufi-mark.svg" width="56" alt="Nufi"></a></td>
+    <td valign="middle"><strong>Personal software, built for real life.</strong><br><sub>Nufi is a family of tools I build, self-host, and use every day. Every name ends in <code>i</code> by design: one coherent suite for different parts of daily life.</sub></td>
+  </tr>
+</table>
+
+`self-hosted` · `AGPL-3.0` · `Docker Compose` · `home server`
 
 | Product | Part of life | What it does |
 | --- | --- | --- |
@@ -20,10 +27,7 @@ Nufi is a family of personal tools I build, self-host, and use. Every name ends 
 | [**publi**](https://github.com/juanhdzma/publi) | Reading and writing | Book summaries, essays, citations, and notes written in Markdown. |
 | [**automati**](https://github.com/juanhdzma/automati) | Home automation | An API for Home Assistant toggles, timed actions, and iOS widget data. |
 
-<p align="center">
-  <strong>Five tools. One home server. One personal software suite.</strong><br>
-  <a href="https://nufi.com.co">Explore the Nufi Suite</a>
-</p>
+The complete suite, technical assessments, and short write-ups live at [nufi.com.co](https://nufi.com.co).
 
 ## Experience
 
