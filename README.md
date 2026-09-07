@@ -1,6 +1,6 @@
 # Juan Hernandez
 
-> Backend and Machine Learning Engineer building reliable systems at work and a personal software suite outside it.
+> Backend and Machine Learning Engineer. I run high-volume systems in production and build Nufi, a self-hosted suite for everyday life.
 
 <p>
   <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Nufi%20Suite-nufi.com.co-3B9EFF?style=flat-square" alt="Nufi Suite"></a>
