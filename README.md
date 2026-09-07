@@ -10,14 +10,11 @@
 
 ## The Nufi Suite
 
-<table>
-  <tr>
-    <td width="76" align="center" valign="middle"><a href="https://nufi.com.co"><img src="./assets/nufi-mark.svg" width="56" alt="Nufi"></a></td>
-    <td valign="middle"><strong>Personal software, built for real life.</strong><br><sub>Nufi is a family of tools I build, self-host, and use every day. Every name ends in <code>i</code> by design: one coherent suite for different parts of daily life.</sub></td>
-  </tr>
-</table>
+**Personal software, built for real life.** Nufi is a family of tools I build, self-host, and use every day. Every name ends in `i` by design: one coherent suite for different parts of daily life.
 
-`self-hosted` · `AGPL-3.0` · `Docker Compose` · `home server`
+> Nufi began with a simple frustration: basic iPhone apps charging subscriptions that felt disproportionate to what they offered. I build these tools without subscription plans or a profit goal, to make useful technology more accessible and contribute with what I know.
+
+`self-hosted` · `AGPL-3.0` · `no subscriptions` · `home server`
 
 | Product | Part of life | What it does |
 | --- | --- | --- |
@@ -70,9 +67,26 @@ The complete suite, technical assessments, and short write-ups live at [nufi.com
 <details>
   <summary>Extended toolbox</summary>
 
-  **Data and ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, and RAG.
+  <br>
 
-  **Platform:** microservices, REST APIs, BigQuery, Redshift, MongoDB, Cassandra, Redis, S3, MinIO, GitHub Actions, Jenkins, Kafka, RabbitMQ, and CI/CD.
+  <table>
+    <tr>
+      <td width="24%"><strong>Modeling</strong></td>
+      <td>TensorFlow · PyTorch · scikit-learn · Pandas · NumPy</td>
+    </tr>
+    <tr>
+      <td><strong>ML platforms</strong></td>
+      <td>MLflow · SageMaker · Snowflake · Databricks · Great Expectations · Delta Lake · LangChain · RAG</td>
+    </tr>
+    <tr>
+      <td><strong>Data systems</strong></td>
+      <td>BigQuery · Redshift · MongoDB · Cassandra · Redis · S3 · MinIO</td>
+    </tr>
+    <tr>
+      <td><strong>Delivery</strong></td>
+      <td>microservices · REST APIs · GitHub Actions · Jenkins · Kafka · RabbitMQ · CI/CD</td>
+    </tr>
+  </table>
 </details>
 
 ## Education
