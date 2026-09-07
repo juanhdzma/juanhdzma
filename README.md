@@ -1,53 +1,91 @@
 # Juan Hernandez
 
-> Backend and Machine Learning Engineer building high-volume systems at work and a personal software suite outside it.
+> Backend and Machine Learning Engineer building reliable systems at work and a personal software suite outside it.
 
 <p>
   <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Nufi_Suite-nufi.com.co-0f766e?style=flat-square" alt="Nufi Suite"></a>
-  <img src="https://img.shields.io/badge/Bogotá-Colombia-1f6feb?style=flat-square" alt="Bogotá, Colombia">
+  <img src="https://img.shields.io/badge/based_in-Bogotá%2C%20Colombia-1f6feb?style=flat-square" alt="Based in Bogotá, Colombia">
   <img src="https://img.shields.io/badge/English-C1%20%7C%20IELTS%207.5-7c3aed?style=flat-square" alt="English C1, IELTS 7.5">
 </p>
 
 ## The Nufi Suite
 
-Nufi is a suite of personal tools I build, self-host, and use. Every product name ends in `i` by design: one family, different parts of daily life. They run on my own server, are released under AGPL-3.0, and live in full at [nufi.com.co](https://nufi.com.co).
+Nufi is a family of personal tools I build, self-host, and use. Every name ends in `i` by design: one coherent suite for different parts of daily life. The full experience lives at [nufi.com.co](https://nufi.com.co).
 
 | Product | Part of life | What it does |
 | --- | --- | --- |
-| [**moni**](https://github.com/juanhdzma/moni) | Personal finance | Brings transactions, credit cards, loans, investments, assets, and recurring payments into one dashboard. |
-| [**fondi**](https://github.com/juanhdzma/fondi) | Shared investing | Tracks contributions, shares, ownership, and returns for a mutual-fund-style investment pool. |
-| [**stocki**](https://github.com/juanhdzma/stocki) | Market research | Combines fundamentals, insider activity, and valuation into a practical stock watchlist. |
-| [**publi**](https://github.com/juanhdzma/publi) | Reading and writing | A home for book summaries, essays, citations, and notes written in Markdown. |
-| [**automati**](https://github.com/juanhdzma/automati) | Home automation | A small API for Home Assistant toggles, timed actions, and iOS widget data. |
+| [**moni**](https://github.com/juanhdzma/moni) | Personal finance | Transactions, credit cards, loans, investments, assets, and recurring payments in one dashboard. |
+| [**fondi**](https://github.com/juanhdzma/fondi) | Shared investing | Contributions, shares, ownership, and returns for a mutual-fund-style investment pool. |
+| [**stocki**](https://github.com/juanhdzma/stocki) | Market research | Fundamentals, insider activity, and valuation combined into a practical stock watchlist. |
+| [**publi**](https://github.com/juanhdzma/publi) | Reading and writing | Book summaries, essays, citations, and notes written in Markdown. |
+| [**automati**](https://github.com/juanhdzma/automati) | Home automation | An API for Home Assistant toggles, timed actions, and iOS widget data. |
 
 <p align="center">
-  <strong>Five tools. One home server. One coherent personal software suite.</strong><br>
+  <strong>Five tools. One home server. One personal software suite.</strong><br>
   <a href="https://nufi.com.co">Explore the Nufi Suite</a>
 </p>
 
-## In production
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>80M+</strong><br><sub>requests handled daily</sub></td>
+    <td width="33%" align="center"><strong>89%</strong><br><sub>cloud-cost reduction</sub></td>
+    <td width="33%" align="center"><strong>40+</strong><br><sub>professional certifications</sub></td>
+  </tr>
+</table>
 
-| Signal | Context |
-| ---: | --- |
-| **80M+** | Requests per day handled across backend infrastructure. |
-| **35M+ / 5M+** | Daily push notifications and emails orchestrated across LATAM at Mercado Libre. |
-| **89%** | Cloud-cost reduction through rightsizing, I/O optimization, caching, batching, and load balancing. |
-| **10x** | Speedup for a hybrid orchestrator that combines deterministic code and LLM steps. |
+## Currently
 
-I currently work as a Semi Senior Data Engineer at Mercado Libre. Previously, I worked on data science and AML/CFT detection at Scotiabank Colpatria, backend systems at Coordinadora Mercantil, and automation and ML systems as an independent engineer.
+Semi Senior Data Engineer at Mercado Libre, where I design systems that combine deterministic code and LLM steps, and help run the notification ecosystem across LATAM: more than 35 million push notifications and 5 million emails every day.
 
-## What I work with
+<p align="center">
+  <a href="https://nufi.com.co"><strong>Explore my work at nufi.com.co</strong></a><br>
+  <sub>Projects, technical assessments, and concise write-ups live there.</sub>
+</p>
 
-**Backend** — `Python` `Go` `FastAPI` `Gin` `microservices` `REST APIs`
+## Experience
 
-**Data and ML** — `PostgreSQL` `Spark` `Airflow` `scikit-learn` `PyTorch` `TensorFlow` `MLflow` `Snowflake` `Databricks` `Great Expectations` `LLMs` `RAG`
+| Period | Role | What I delivered |
+| --- | --- | --- |
+| 2025 — now | **Semi Senior Data Engineer**<br>Mercado Libre | Built a hybrid code and LLM orchestrator that reduced processing time from 710s to 67s and operational cost to 11% of the original proof of concept. |
+| 2025 | **Data Science Intern**<br>Scotiabank Colpatria | Automated UIAF report uploads for 33 analysts, saving roughly 11,000 hours a year; modeled a 400M+ record transactional network for AML/CFT detection in one hour. |
+| 2023 | **Backend Engineer**<br>Coordinadora Mercantil | Supported 10M+ daily requests at 99.99% uptime, managed 37 production microservices, and reduced memory use by 22%. |
+| 2022 — 2025 | **Backend and ML Engineer**<br>Freelance | Delivered automation, recommendation, management, and reporting systems that improved capacity, conversion, and operational speed for small businesses. |
 
-**Platform** — `AWS` `GCP` `Docker` `Kubernetes` `Kafka` `RabbitMQ` `GitHub Actions` `CI/CD`
+## Working with
 
-## Background
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs">
+  <img src="https://img.shields.io/badge/MLOps-7C3AED?style=for-the-badge" alt="MLOps">
+</p>
 
-Computer Engineering, Universidad de La Sabana. MicroMasters in Data Science (UC San Diego), Software Development (UBC), Project Management (RIT), and Database Management Systems (UMBC). 40+ certifications across software, data, machine learning, and AI.
+**Data and ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, and RAG.
 
-## Elsewhere
+**Platform:** microservices, REST APIs, BigQuery, Redshift, MongoDB, Cassandra, Redis, S3, MinIO, GitHub Actions, Jenkins, Kafka, RabbitMQ, and CI/CD.
 
-[LinkedIn](https://www.linkedin.com/in/juanhdzma/) · [nufi.com.co](https://nufi.com.co) · [juan.hernandez@nufi.com.co](mailto:juan.hernandez@nufi.com.co)
+## Education
+
+| Program | Institution | Year |
+| --- | --- | ---: |
+| Computer Engineering | Universidad de La Sabana | 2025 |
+| MicroMasters in Data Science | University of California, San Diego | 2025 |
+| MicroMasters in Software Development | University of British Columbia | 2024 |
+| MicroMasters in Project Management | Rochester Institute of Technology | 2026 |
+| MicroMasters in Database Management Systems | University of Maryland Baltimore County | 2026 |
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/juanhdzma/"><img src="https://img.shields.io/badge/LinkedIn-juanhdzma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:juan.hernandez@nufi.com.co"><img src="https://img.shields.io/badge/Email-juan.hernandez%40nufi.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Website-nufi.com.co-0f766e?style=for-the-badge" alt="Website"></a>
+</p>
