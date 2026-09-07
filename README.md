@@ -25,15 +25,6 @@ Nufi is a family of personal tools I build, self-host, and use. Every name ends 
   <a href="https://nufi.com.co">Explore the Nufi Suite</a>
 </p>
 
-## Currently
-
-Semi Senior Data Engineer at Mercado Libre, where I design systems that combine deterministic code and LLM steps, and help run the notification ecosystem across LATAM: more than 35 million push notifications and 5 million emails every day.
-
-<p align="center">
-  <a href="https://nufi.com.co"><strong>Explore my work at nufi.com.co</strong></a><br>
-  <sub>Projects, technical assessments, and concise write-ups live there.</sub>
-</p>
-
 ## Experience
 
 | Period | Role | What I delivered |
