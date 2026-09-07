@@ -33,10 +33,10 @@ The complete suite, technical assessments, and short write-ups live at [nufi.com
 
 | Period | Role | What I delivered |
 | --- | --- | --- |
-| 2025 — now | **Semi Senior Data Engineer**<br>Mercado Libre | Built a hybrid code and LLM orchestrator that reduced processing time from 710s to 67s and operational cost to 11% of the original proof of concept. |
-| 2025 | **Data Science Intern**<br>Scotiabank Colpatria | Automated UIAF report uploads for 33 analysts, saving roughly 11,000 hours a year; modeled a 400M+ record transactional network for AML/CFT detection in one hour. |
-| 2023 | **Backend Engineer**<br>Coordinadora Mercantil | Supported 10M+ daily requests at 99.99% uptime, managed 37 production microservices, and reduced memory use by 22%. |
-| 2022 — 2025 | **Backend and ML Engineer**<br>Freelance | Delivered automation, recommendation, management, and reporting systems that improved capacity, conversion, and operational speed for small businesses. |
+| 2025 — now | **Semi Senior Data Engineer**<br>Mercado Libre | **10x faster, 89% lower operating cost.** Built a hybrid orchestrator that combines deterministic code and LLM steps. |
+| 2025 | **Data Science Intern**<br>Scotiabank Colpatria | **11K hours saved each year.** Automated UIAF report uploads for 33 analysts and modeled a 400M+ record network for AML/CFT detection in one hour. |
+| 2023 | **Backend Engineer**<br>Coordinadora Mercantil | **10M+ daily requests at 99.99% uptime.** Managed 37 production microservices and reduced memory use by 22%. |
+| 2022 — 2025 | **Backend and ML Engineer**<br>Freelance | **34% more capacity and 28% higher CTR.** Delivered automation, recommendation, management, and reporting systems for small businesses. |
 
 ## Working with
 
