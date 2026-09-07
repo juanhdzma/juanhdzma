@@ -40,24 +40,40 @@ The complete suite, technical assessments, and short write-ups live at [nufi.com
 
 ## Working with
 
+### Build services
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+### Move data and models
+
+<p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs">
   <img src="https://img.shields.io/badge/MLOps-7C3AED?style=for-the-badge" alt="MLOps">
 </p>
 
-**Data and ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, and RAG.
+### Run and ship
 
-**Platform:** microservices, REST APIs, BigQuery, Redshift, MongoDB, Cassandra, Redis, S3, MinIO, GitHub Actions, Jenkins, Kafka, RabbitMQ, and CI/CD.
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>
+
+<details>
+  <summary>Extended toolbox</summary>
+
+  **Data and ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, MLflow, SageMaker, Snowflake, Databricks, Great Expectations, Delta Lake, LangChain, and RAG.
+
+  **Platform:** microservices, REST APIs, BigQuery, Redshift, MongoDB, Cassandra, Redis, S3, MinIO, GitHub Actions, Jenkins, Kafka, RabbitMQ, and CI/CD.
+</details>
 
 ## Education
 
