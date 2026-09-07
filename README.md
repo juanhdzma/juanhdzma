@@ -3,9 +3,9 @@
 > Backend and Machine Learning Engineer building reliable systems at work and a personal software suite outside it.
 
 <p>
-  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Nufi_Suite-nufi.com.co-0f766e?style=flat-square" alt="Nufi Suite"></a>
-  <img src="https://img.shields.io/badge/based_in-Bogotá%2C%20Colombia-1f6feb?style=flat-square" alt="Based in Bogotá, Colombia">
-  <img src="https://img.shields.io/badge/English-C1%20%7C%20IELTS%207.5-7c3aed?style=flat-square" alt="English C1, IELTS 7.5">
+  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Nufi%20Suite-nufi.com.co-3B9EFF?style=flat-square" alt="Nufi Suite"></a>
+  <img src="https://img.shields.io/badge/based%20in-Bogotá%2C%20Colombia-1D2733?style=flat-square" alt="Based in Bogotá, Colombia">
+  <img src="https://img.shields.io/badge/English-C1%20%7C%20IELTS%207.5-2A3644?style=flat-square" alt="English C1, IELTS 7.5">
 </p>
 
 ## The Nufi Suite
@@ -90,5 +90,5 @@ The complete suite, technical assessments, and short write-ups live at [nufi.com
 <p>
   <a href="https://www.linkedin.com/in/juanhdzma/"><img src="https://img.shields.io/badge/LinkedIn-juanhdzma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:juan.hernandez@nufi.com.co"><img src="https://img.shields.io/badge/Email-juan.hernandez%40nufi.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Website-nufi.com.co-0f766e?style=for-the-badge" alt="Website"></a>
+  <a href="https://nufi.com.co"><img src="https://img.shields.io/badge/Website-nufi.com.co-3B9EFF?style=for-the-badge" alt="Website"></a>
 </p>
